@@ -84,7 +84,7 @@ span{
     line-height: 24px;
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1500px) {
 
     main{
         height: 100%;
@@ -140,19 +140,6 @@ span{
         font-size: 25px;
         line-height: 30px;
     }
-}
-
-@media screen and (min-width: 1700px){
-
-    section{
-        max-width: 1400px;
-        margin: 110px 240px;
-    }
-
-    .card:nth-child(2), .card:nth-child(3){
-        margin-left: 50px;
-    }
-
 }
 
 
